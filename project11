@@ -1,0 +1,60 @@
+           Project11
+
+
+1- Basics concepts
+
+a- What is a DevOps?
+DevOps is the combination of cultural philosophies, practices, and tools that increases an organization's ability to deliver applications and services at high velocity: evolving and improving products at a faster pace than organizations using traditional software development and infrastructure management processes.
+
+b- What is GIT?
+-It is a “distributed” version control software that helps Software developers to work together and maintain the complete history of their work
+
+c- what is the difference between git ans svn?
+- svn is a Centralized Revision Control System, and git is a Distributed Revision Control System (DVCS).
+
+
+
+d- what continious integration? This is the practice of merging all developers working copies to a shared mainline several times a day.
+
+e- what is continious delevery?
+ - It is a software engineering approach in which teams produce software in short cycles, ensuring that the software can be reliably released at any time.
+
+f- what is scrum?
+- It defines "a flexible, holistic product development strategy where a development team works as a unit to reach a common goal"
+
+g- What is agile methodology?
+- describes a set of principles for software development under which requirements and solutions evolve through the collaborative effort of self-organizing cross-functional teams. It advocates adaptive planning, evolutionary development, early delivery, and continuous improvement, and it encourages rapid and flexible response to change.These principles support the definition and continuing evolution of many software development methods
+
+h- what release calender ?
+
+- 
+i- what is release date?
+
+2- give 4 reasons why companies should consider the DevOps method
+    -Time to value.
+   -Speed of deployment.
+   -Reduce cost/time to deliver.
+   -Reduce time/cost to test.
+   -Increase test coverage.
+   -Increase environment utilization.
+   -Minimize deployment related downtime
+
+
+3- what are some automation tools used in the DevOps environment?
+- Jenkins
+-Dockers
+-Ansible
+-Nagios
+
+4- why is it important to build the software in the test regions before delivering it to production?
+
+-To help detect bugs in the system and fix them before delivering to the public.
+
+5- create a project in your github repository called project4 and in project4 , create a file called project11
+
+
+
+
+6- copy your homework11 answers into the file project11 and commit it.
+
+7- What is the url to access your github project11 file?
